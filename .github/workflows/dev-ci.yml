@@ -6,7 +6,7 @@ name: Slimefun DEV
 on:
   push:
     branches:
-      - dev
+      - async
     paths:
       - 'src/**'
       - 'pom.xml'
