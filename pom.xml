@@ -384,9 +384,9 @@
 
         <!-- Shaded packages -->
         <dependency>
-            <groupId>com.github.StarWishsama.dough</groupId>
+            <groupId>com.github.Heleguo.dough</groupId>
             <artifactId>dough-api</artifactId>
-            <version>0a06f6fcae</version>
+            <version>15a375c854</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
